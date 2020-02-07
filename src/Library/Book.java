@@ -1,6 +1,7 @@
 package Library;
 public class Book {
 private String ISBN;
+private String A;
 private String Title;
 private String Author;
 private int Edition;
